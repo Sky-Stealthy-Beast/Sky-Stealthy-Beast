@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello everyone, Nikita is in touch. 👋
 
+## 💬 My goal is to get into game development and move to Canada in the future.
 <!--
 **Sky-Stealthy-Beast/Sky-Stealthy-Beast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
